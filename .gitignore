@@ -1,23 +1,17 @@
-*~
-*.sw[mnpcod]
-*.log
-*.lock
-*.tmp
-*.tmp.*
-log.txt
-*.sublime-project
-*.sublime-workspace
+# hidden files
+.*
 
-.stencil/
-.idea/
-.vscode/
-.sass-cache/
-.versions/
-node_modules/
-revogrid.demo.js/
-$RECYCLE.BIN/
+# python compiled files
+*.pyc
 
-.DS_Store
-Thumbs.db
-UserInterfaceState.xcuserstate
-.env
+# jekyll debug
+_site
+
+# Jeykll Gemfile.lock
+Gemfile.lock
+
+# yui-compressor
+*.jar
+
+# bundle cache
+vendor

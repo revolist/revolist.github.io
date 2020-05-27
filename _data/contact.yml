@@ -1,0 +1,21 @@
+#  The contact options.
+#  v2.3
+#  https://github.com/cotes2020/jekyll-theme-chirpy
+#  © 2020 Cotes Chung
+#  MIT Licensed
+
+-
+  type: github
+  icon: 'fab fa-github-alt'
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
+
+# Complete the url below to enable more contact options
+-
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/kudrytski-maksim-55128b46'                  # Fill with your Linkedin homepage
+-
+  icon: 'fab fa-stack-overflow'
+  url:  ''                  # Fill with your stackoverflow homepage
